@@ -11,8 +11,8 @@ Dependency: [jQuery](http://jquery.com)
 
 Download dm_notify.js:
 - from [Github](https://github.com/mastavralis/dm-notify.git)
-
-- [Demo](http://development.3dmind.gr/dm-notify/)
+- 
+- <a href="http://development.3dmind.gr/dm-notify/" target="_blank">Demo</a>
 
 Add a `div with id #dm-notif` ti will hold all the notifications :
 
