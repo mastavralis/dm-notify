@@ -10,8 +10,7 @@ A Light jQuery notification plugin. For websites and mobile apps
 Dependency: [jQuery](http://jquery.com)
 
 Download dm_notify.js:
-- from [Github]()
-- with Bower: `bower install `.
+- from [Github](https://github.com/mastavralis/dm-notify.git)
 
 Add a `div with id #dm-notif` ti will hold all the notifications :
 
