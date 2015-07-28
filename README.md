@@ -18,9 +18,8 @@ Add a `div with id #dm-notif` ti will hold all the notifications :
 
     <div id="dm-notif"></div>
 
-### Styling
+### CSS Styling
 
-Furthermore, ohSnap.js creates a div with classes `.alert .alert-color` so you will want to have something like :
 The plugin creates a div with the classes ' .dm-notification .dm-notify-red .dm-notify-green .dm-notify-blue .dm-notify-yellow .dm-notify-orange ' so copy and paste it to your stylesheet.
 
 /* NOTIFICATIONS BASED ON BOOTSTRAP*/
